@@ -1,0 +1,1 @@
+Edit this to tell someone how they would go about setting up this app with Ember
